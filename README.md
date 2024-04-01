@@ -9,11 +9,13 @@ We have couples of ideas, will finalize later:
 - Stock price prediction
 - Purchase Stocks Bots
 - Chat Bot
+- Wealth calculator
+- Food image analyzine
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
-TODO
+Sherry Sun, Ason Yue
 
 ## Do you have any questions of your own?
 
-TODO
+

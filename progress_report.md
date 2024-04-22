@@ -2,7 +2,7 @@
 
 #### Your name
 
-Chun Hei Yue
+Chun Hei Yue, Sherry Sun
 
 #### Your section leader's name
 
@@ -18,14 +18,15 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-
+I have finished sorting the files by the creation time.
 
 #### What have you not done for your project yet?
 
-
+There are several things I need to work on creating folders like "July 2023" and moving the files into the folders.
 
 #### What problems, if any, have you encountered?
 
+I don't have any problems so far.
 
 *** Ason
 
